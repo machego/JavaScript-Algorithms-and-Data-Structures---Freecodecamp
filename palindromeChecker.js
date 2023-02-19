@@ -4,9 +4,7 @@ function palindrome(str) {
   }
   
 
-  // Test
-
-// console.log(palindrome("eye"));
+// Test
 console.log(palindrome("eye")); // should return a boolean.
 console.log(palindrome("eye")); // should return true.
 console.log(palindrome("_eye")); // should return true.
